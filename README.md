@@ -4,11 +4,10 @@ Welcome to my GitHub profile! I'm Tauqeer, a passionate software developer from 
 
 ## About Me
 
-- 🔭 Building exciting projects.
-- 🌱 Learning NextJS, GraphQL & Node.js to enhance my skills.
-- 💬 Feel free to ask me anything about React, NextJS, GraphQL, and Java.
-- 📫 How to reach me: mdta2108@gmail.com.
-
+-🔭 Currently immersed in fascinating projects.
+-🌱 Delving deep into Next.js, GraphQL, and Node.js to level up my skills.
+-💬 Got questions about React, Next.js, GraphQL, or Java? Fire away!
+-📫 Drop me a line at mdta2108@gmail.com. I'd love to hear from you!
 
 
 ## Connect with Me
