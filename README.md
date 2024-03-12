@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm Tauqeer, a passionate software developer from 
 - 🔭 Currently immersed in fascinating projects.
 - 🌱 Delving deep into Next.js, Neo4j, and Node.js to level up my skills.
 - 💬 Got questions about React, Next.js, GraphQL, Neo4j, Angular or Java? Fire away!
-- 📫 Drop me a line at this [email](mdta2108@gmail.com). I'd love to hear from you!
 
 
 ## Connect with Me
